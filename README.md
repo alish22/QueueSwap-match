@@ -37,7 +37,7 @@ The page also shows:
 2. Choose **Try a scenario**, then **Find swaps**.
 3. Read the suggestion and the audit log.
 
-You can also download `index.html` and open it in a browser.
+You can also download `QueueSwap index.html` and open it in a browser.
 
 ## Notes
 
